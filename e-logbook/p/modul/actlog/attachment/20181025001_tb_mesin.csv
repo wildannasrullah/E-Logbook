@@ -1,0 +1,22 @@
+id_mesin,id_group,name_mesin,jum_warna,max_panjang,max_lebar,kapasitas,harga_p_jam,inline
+1,1,CD 6,6,72,104,5000,100000,1
+2,1,CD 4,4,71,102,6000,95000,NULL
+3,2,SORS,7,71,101,5500,90000,NULL
+4,5,BUSCH,5,5,5,5000,83680,NULL
+5,3,BOBS 1,5,5,5,5,55000,NULL
+6,4,BOBS 2,7,79,110,6000,20000,NULL
+7,1,COMORY,7,80,109,6000,20000,2
+8,6,SBB,5,74,53,5000,20000,NULL
+9,6,SBD,4,82,61,5000,25000,NULL
+10,8,MESIN A,7,68,100,6000,20000,
+11,7,MESIN B,7,68,101,6000,10000,
+12,10,MESIN C,2,68,101,5500,10000,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,Jika mesin dapat menggunakan inline :,,,,,,
+,,1,:,Water Base,,,,
+,,2,:,UV,,,,
+,,,,,,,,
+,,"Jika mesin tidak menggunakan inline, TIDAK PERLU DIISI",,,,,,
